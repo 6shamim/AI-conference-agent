@@ -1,0 +1,4 @@
+workstream tracking, timeline management, risk assessment, and key metrics.
+Multiple agents
+- Agent for deal
+- Agent for risk analysis
